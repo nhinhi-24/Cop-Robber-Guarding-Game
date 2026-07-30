@@ -13,7 +13,7 @@ The implementation includes graph construction, time-expanded graph generation, 
 ## Repository Structure
 
 ```
-.
+
 ├── animation.py                 # Guard movement animation
 ├── graph_generator.py           # Graph construction
 ├── ilp_solver.py                # Time-Extended ILP model and optimization
