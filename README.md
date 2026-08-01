@@ -28,7 +28,7 @@ The implementation includes graph construction, time-expanded graph generation, 
 
 ## Requirements
 
-- Python 3.x
+- Python 
 - NetworkX
 - Matplotlib
 - PuLP
